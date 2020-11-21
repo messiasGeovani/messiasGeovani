@@ -1,7 +1,7 @@
 # Messias Geovani
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messiasgeovani/)](https://www.linkedin.com/in/pedroemanoelnascimento/)
-[![Gmail Badge](https://img.shields.io/badge/-messias.geovani.lima@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:PedroSpiet@gmail.com)](mailto:PedroSpiet@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messiasgeovani/)](https://www.linkedin.com/in/messiasgeovani/)
+[![Gmail Badge](https://img.shields.io/badge/-messias.geovani.lima@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:messias.geovani.lima@gmail.com)](mailto:messias.geovani.lima@gmail.com)
 
 <div>
   Skills
