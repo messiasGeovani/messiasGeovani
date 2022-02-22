@@ -11,6 +11,7 @@ Heya! I'm Messias Geovani, a web developer currently living in São Paulo, Brasi
   <img src="https://img.shields.io/badge/-Typescript-0076C6?style=for-the-badge&logo=typescript&logoColor=0076C6&labelColor=282828">
   <img src="https://img.shields.io/badge/-React.JS-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
   <img src="https://img.shields.io/badge/-Vue.JS-42B783?style=for-the-badge&logo=vue.js&logoColor=42B783&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Node.JS-3C8739?style=for-the-badge&logo=node.js&logoColor=3C8739&labelColor=282828">
 </div>
 </p>
 
