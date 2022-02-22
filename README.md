@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Messias Dev</b>
+  <b>Messias Geovani</b>
 </h1>
 
 Heya! I'm Messias Geovani, a web developer currently living in São Paulo, Brasil. Working with development since 2019, I participated in the development of multiple web applications, ranging from simple dashboards to high complexity systems with integration for IoT. Always concerned with User Experience and application performance to reach high retention rates.
