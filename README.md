@@ -27,6 +27,7 @@ Heya! I'm Messias Geovani, a web developer currently living in São Paulo, Brasi
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <br/>
+
 ---
 
 ```typescript
