@@ -15,7 +15,7 @@ Heya! I'm Messias Geovani, a web developer currently living in São Paulo, Brasi
 </div>
 </p>
 
-<img align="right" alt="GIF" src="./assets/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="./assets/gif3.gif" width="50%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -26,9 +26,7 @@ Heya! I'm Messias Geovani, a web developer currently living in São Paulo, Brasi
 - 🎮 &nbsp; Playing video games and listening a lot of music as hobbies/side activities.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<br>
-<br>
-<br>
+---
 
 ```typescript
 class MessiasGeovani {
