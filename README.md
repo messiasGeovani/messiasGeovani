@@ -21,7 +21,7 @@ Heya! I'm Messias Geovani, a web developer currently living in São Paulo, Brasi
 
 - 🔭 &nbsp; I’m currently working and developing with Javascript ecosystem.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying computer programming and technology market trends.
 - 💼 &nbsp; Front-end and Back-end web developer.
 - 🎮 &nbsp; Playing video games and listening a lot of music as hobbies/side activities.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
