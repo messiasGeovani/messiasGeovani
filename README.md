@@ -84,7 +84,7 @@ const me = new MessiasGeovani();
 
 <a href="https://www.facebook.com/profile.php?id=100059279444596"><img src="https://img.shields.io/badge/facebook%20@geovani_lima-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/messiasgeovani/"><img src="https://img.shields.io/badge/linkedin%20@messiasgeovani-0066a1?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/messiasgeovani/"><img src="https://img.shields.io/badge/linkedin%20@messiasgeovani-0066a1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 Credit: [messiasGeovani](https://github.com/messiasGeovani)
 
